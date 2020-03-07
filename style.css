@@ -1,0 +1,54 @@
+body {
+	   background-color: #d2d2ff;
+    color: rgb(77, 104, 183);
+	font-family: 'Arial rounded mt bold', cursive;
+	background-image:url(images/violet.jpg);
+	background-attachment:fixed;
+	text-align: center;
+
+
+}
+
+h1{
+	
+	font-family: 'Abril Fatface', cursive;
+	    color: #3a3131;
+
+
+	letter-spacing: px;
+	font-weight: 400;
+	font-size: 200px;
+	margin-right: 30px;
+
+
+
+}
+h2{
+	color: White;
+
+    
+	font-size: 50px
+
+
+}
+h3{
+	color: white;
+
+    font-size: 50px;
+    text-align: center;
+    
+
+}
+p{
+
+	font-size: 20px;
+}
+
+div{
+	background: #e7ddff;
+	background-image:url(images/ppol.jpg);
+	padding: 55px;
+	margin: 40px;
+
+}
+
